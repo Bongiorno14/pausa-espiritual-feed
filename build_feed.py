@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).parent
 CONTENT_PATH = BASE_DIR / "content.json"
 STATE_PATH = BASE_DIR / "state.json"
 FEED_PATH = BASE_DIR / "docs" / "feed.json"
-REDIRECTION_URL = "https://SEU-USUARIO.github.io/pausa-espiritual-feed/"
+REDIRECTION_URL = "https://bongiorno14.github.io/pausa-espiritual-feed/"
 
 UUID_NAMESPACE = uuid.UUID("8a2c3b4d-0000-4000-8000-000000000000")
 
